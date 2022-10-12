@@ -1,0 +1,6 @@
+:root {
+  --c-primary: #rgba(53, 165, 117, 1);
+  --c-warning: rgba(244, 191, 78, 1);
+  --c-danger: rgba(236, 106, 94, 1);
+  --c-info: rgba(32, 43, 59, 1);
+}
